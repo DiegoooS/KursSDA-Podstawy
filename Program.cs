@@ -65,8 +65,8 @@ namespace HelloWorld
             Console.WriteLine("Hello " + Name);
             Console.WriteLine($"{Name} is {Age} year Old!");
 
-            Console.WriteLine($"{Name} will be {Age + 1} year old in next year");
-            Console.WriteLine($"{Name} will be {Age + 10} year old in next 10 years");
+            Console.WriteLine($"{Name} will be {Age + 1} years old in next year");
+            Console.WriteLine($"{Name} will be {Age + 10} years old in next 10 years");
 
            
             int SquareSide = 5;
